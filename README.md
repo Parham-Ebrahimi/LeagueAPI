@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/Parham-Ebrahimi/LeagueAPI/blob/main/LeagueAPI.gif)
 
 ## Available Scripts
 
@@ -15,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Downloads all dependencies needed to run this app
 
-![](https://github.com/Parham-Ebrahimi/LeagueAPI/blob/main/LeagueAPI.gif)
+
